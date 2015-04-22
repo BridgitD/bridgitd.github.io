@@ -9,7 +9,7 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #000;
+    background-color: #628ecf;
 }
 
 html {
@@ -45,7 +45,7 @@ p {
 }
 
 a {
-    color: #42dca3;
+    color: #81E1CE;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -54,7 +54,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #1d9b6c;
+    color: #189F85;
 }
 
 .light {
@@ -265,8 +265,8 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: #000;
+    /*background: url(../img/IMG_0928_1024.jpg) no-repeat center center scroll;*/
+    background-color: #56CCB5;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -305,17 +305,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #42dca3;
-    color: #42dca3;
+    border: 1px solid #5B49BF;
+    color: #5B49BF;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #42dca3;
+    border: 1px solid #5B49BF;
     outline: 0;
-    color: #000;
-    background-color: #42dca3;
+    color: #C8C0F5;
+    background-color: #5B49BF;
 }
 
 ul.banner-social-buttons {
