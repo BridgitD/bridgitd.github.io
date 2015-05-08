@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,300,500,700,800);
 @import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Lato);
 
 /*!
  * My Portfolio v1.0.0
@@ -230,7 +231,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 .pfblock {
-	padding: 120px 0 100px;
+	padding: 150px 0 150px;
 }
 
 .pfblock-gray {
@@ -295,29 +296,32 @@ textarea.form-control {
     text-align: center;
 }
 .calltoaction {
-    background: url(../images/item-3.jpg);
+    background: url(../images/organizing.jpg);
 	background-color: #222;
 	background-repeat: no-repeat;
-	background-position: 0 0;
+	background-position: 0 -125px;
 	-webkit-background-size: cover;
 	   -moz-background-size: cover;
 		 -o-background-size: cover;
 			background-size: cover;
-	padding: 50px 0;
+	padding: 150px 0;
 	color: #999;
 }
 
 .calltoaction h2 {
 	font-size: 20px;
+	text-shadow: 1px 1px #fff;
 	letter-spacing: 1px;
 	margin-bottom: 5px;
+	color: #000;
 }
 
 .calltoaction-decription{
     padding-top: 20px;
     padding-bottom: 30px;
     font-size: 20px;
-    color: #fff;
+    text-shadow: 1px 1px #fff;
+    color: #000;
 }
 
 .calltoaction-btn {
@@ -554,7 +558,7 @@ textarea.form-control {
 .navbar-custom .navbar-brand {
 	font-weight: 700;
 	font-size: 22px;
-    font-family: Lobster, cursive;
+    font-family: Lato, sans-serif;
 }
 
 .navbar-custom .dropdown-menu {
